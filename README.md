@@ -2,14 +2,14 @@
 
 > LaTeX CV Template
 
-<img alt="Preview" width="75%" src="./preview.jpg" />
+<img alt="Preview" width="50%" src="./preview.jpg" />
 
-# Requirements
+## Requirements
 
 - TeX distribution
 - `latexmk`
 
-# Credits
+## Credits
 
 Inspired by https://github.com/prabhuomkar/latex-resume-template
 
