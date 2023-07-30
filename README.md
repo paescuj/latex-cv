@@ -7,7 +7,7 @@
 ## Requirements
 
 - TeX distribution
-- `latexmk`
+- `sudo tlmgr install latexmk ucs enumitem xltabular ltablex outlines fontawesome5 dashrule ifmtarg`
 
 ## Credits
 
